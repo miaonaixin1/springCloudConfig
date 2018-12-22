@@ -1,3 +1,4 @@
 jdbc:
+  username: admin  
   password: root
-  username: root
+  
